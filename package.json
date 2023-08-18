@@ -1,0 +1,24 @@
+{
+  "name": "pdf-link-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludvigsen/pdf-link-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ludvigsen/pdf-link-example/issues"
+  },
+  "homepage": "https://github.com/ludvigsen/pdf-link-example#readme",
+  "dependencies": {
+    "@pdfme/generator": "2.0.2",
+    "fontkit": "1.8.1"
+  }
+}
